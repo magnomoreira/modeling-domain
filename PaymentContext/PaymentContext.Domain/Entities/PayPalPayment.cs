@@ -1,16 +1,17 @@
 using System;
 using PaymentContext.Domain.Entities;
+using PaymentContext.Domain.ValueObjects;
 
 public class PayPalPayment : Payment {
     public PayPalPayment(string transactionCode,
     DateTime paiDate,
      DateTime expireDate,
       string payer,
-       string document,
+       Document document,
         decimal total,
          decimal totalPaid,
-          string adress,
-           string email):base( 
+          Adress adress,
+           Email email):base( 
                paiDate,
                 expireDate,
                  payer,
