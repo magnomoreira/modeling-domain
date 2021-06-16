@@ -96,3 +96,4 @@
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/obj/Debug/netcoreapp3.1/PaymentContext.Test.dll
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/obj/Debug/netcoreapp3.1/PaymentContext.Test.pdb
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/obj/Debug/netcoreapp3.1/PaymentContext.Test.genruntimeconfig.cache
+/home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/Flunt.dll

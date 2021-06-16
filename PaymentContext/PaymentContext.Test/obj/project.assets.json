@@ -1649,7 +1649,7 @@
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "PaymentContext.Shared": "1.0.0",
-          "flunt": "2.0.0"
+          "flunt": "2.0.3"
         },
         "compile": {
           "bin/placeholder/PaymentContext.Domain.dll": {}

@@ -199,7 +199,7 @@
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "flunt >= *"
+      "flunt >= 2.0.3"
     ]
   },
   "packageFolders": {
@@ -245,7 +245,7 @@
           },
           "flunt": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[2.0.3, )"
           }
         },
         "imports": [
