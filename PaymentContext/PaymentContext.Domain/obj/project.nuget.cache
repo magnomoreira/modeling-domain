@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "E4+2g4/nyeoVPYH6pJ+GjD5Z/BiImglb9zLrVSZEx03bFjQoVyV40PnccwhySoVDJzvhR6MSDQKFKMZQkf8mhQ==",
+  "dgSpecHash": "0Dp69EgZWKqEVQ+Iw1pI2wEiT4EFPaJ98IBPSIzQ9+tXJygZ2C0O4STRvFNhTO8Odw0U1ZOoYle9FvrQQE8Z1Q==",
   "success": true,
   "projectFilePath": "/home/moreira/dev/dotnet/PaymentContext/PaymentContext.Domain/PaymentContext.Domain.csproj",
   "expectedPackageFiles": [
+    "/home/moreira/.nuget/packages/flunt/2.0.3/flunt.2.0.3.nupkg.sha512",
     "/home/moreira/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/home/moreira/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],

@@ -6,6 +6,7 @@
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/PaymentContext.Test.runtimeconfig.dev.json
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/PaymentContext.Test.dll
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/PaymentContext.Test.pdb
+/home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/Flunt.dll
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/Microsoft.VisualStudio.CodeCoverage.Shim.dll
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.CoreUtilities.dll
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/Microsoft.TestPlatform.PlatformAbstractions.dll
@@ -86,8 +87,8 @@
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/PaymentContext.Domain.dll
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/PaymentContext.Shared.dll
-/home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/PaymentContext.Shared.pdb
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/PaymentContext.Domain.pdb
+/home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/bin/Debug/netcoreapp3.1/PaymentContext.Shared.pdb
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/obj/Debug/netcoreapp3.1/PaymentContext.Test.csprojAssemblyReference.cache
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/obj/Debug/netcoreapp3.1/PaymentContext.Test.AssemblyInfoInputs.cache
 /home/moreira/dev/dotnet/PaymentContext/PaymentContext.Test/obj/Debug/netcoreapp3.1/PaymentContext.Test.AssemblyInfo.cs
